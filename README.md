@@ -35,10 +35,10 @@ For our case, we are using a Spanish book titled "El Viejo y el Mar" to experime
 
 ### Key Steps in Building the RAG Application
 
-1. **Installing AMA**
+1. **Installing OLLAMA**
 
-    - **Step 1:** Install AMA to run open-source models locally.
-    - **Step 2:** Use AMA to download and manage models like PHI3, Mixol, and others.
+    - **Step 1:** Install OLLAMA to run open-source models locally.
+    - **Step 2:** Use OLLAMA to download and manage models like PHI3, Mixol, and others.
 
 2. **Building the RAG System**
 
