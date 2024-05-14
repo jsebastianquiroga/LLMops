@@ -13,4 +13,3 @@ pypdf
 git+https://github.com/openai/whisper.git
 langchain[docarray]
 docarray
-"langchain[docarray]"

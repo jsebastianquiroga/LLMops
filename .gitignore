@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+LLMops/
 
 # Spyder project settings
 .spyderproject
@@ -163,3 +164,4 @@ cython_debug/
 *.pdf
 *.pkl
 transcription.txt
+/LLMops*
