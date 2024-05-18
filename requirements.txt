@@ -10,6 +10,9 @@ pinecone-client
 scikit-learn
 ruff
 pypdf
-git+https://github.com/openai/whisper.git
+#git+https://github.com/openai/whisper.git
 langchain[docarray]
 docarray
+pandas
+qdrant_client
+sentence_transformers
