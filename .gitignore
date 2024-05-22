@@ -165,4 +165,5 @@ cython_debug/
 *.pkl
 transcription.txt
 /LLMops*
+/Llmops*
 *.llamafile
